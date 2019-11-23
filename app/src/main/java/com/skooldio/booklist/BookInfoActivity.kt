@@ -4,8 +4,6 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.skooldio.booklist.vo.Book
 import kotlinx.android.synthetic.main.activity_book_info.*
-import kotlinx.android.synthetic.main.activity_main.textViewAuthor
-import kotlinx.android.synthetic.main.activity_main.textViewTitle
 
 class BookInfoActivity : AppCompatActivity() {
 
