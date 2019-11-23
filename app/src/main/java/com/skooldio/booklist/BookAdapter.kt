@@ -3,6 +3,7 @@ package com.skooldio.booklist
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.skooldio.booklist.vo.Book
 
 class BookAdapter : RecyclerView.Adapter<BookViewHolder>() {
     private var bookList: List<Book>? = null
