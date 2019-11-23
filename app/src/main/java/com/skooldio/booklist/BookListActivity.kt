@@ -4,7 +4,6 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.skooldio.booklist.vo.Book
 import kotlinx.android.synthetic.main.activity_book_list.*
 
 class BookListActivity : AppCompatActivity() {
